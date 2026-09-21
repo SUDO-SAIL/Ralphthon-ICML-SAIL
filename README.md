@@ -3,6 +3,11 @@
 </h1>
 
 <p align="center">
+  <a href="https://sudo-sail.github.io/sail"><b>Read the write-up → sudo-sail.github.io/sail</b></a><br/>
+  <sub>Team SAIL project site — demo video, architecture and the technical report.</sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/DanRo-AX/Ralphthon-ICML-SAIL"><img src="https://img.shields.io/github/stars/DanRo-AX/Ralphthon-ICML-SAIL?style=flat&amp;label=%E2%98%85&amp;color=08C" alt="GitHub stars" /></a>
   <img src="https://img.shields.io/badge/React%2018%20%C2%B7%20TypeScript%20%C2%B7%20Vite%208-4493F8?style=flat" alt="React 18, TypeScript, Vite 8" />
   <img src="https://img.shields.io/badge/corpus-47%2C209%20submissions-08C?style=flat" alt="47,209 real submissions in the corpus" />
